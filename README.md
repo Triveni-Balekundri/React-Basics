@@ -5,6 +5,7 @@ Learning and practicing React fundamentals including components, props, state, h
 
 This repository contains my React learning journey and practice work.  
 It includes basic to intermediate React concepts along with small practice projects built while learning React.
+Note: node_modules is been deleted due to its size 
 
 ## Topics Covered
 
@@ -24,6 +25,14 @@ It includes basic to intermediate React concepts along with small practice proje
 - JavaScript
 - HTML
 - CSS
+
+## Installation
+
+After downloading the project, install dependencies using:
+
+```bash
+npm install
+
 
 ## Purpose
 
