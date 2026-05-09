@@ -26,13 +26,6 @@ Note: node_modules is been deleted due to its size
 - HTML
 - CSS
 
-## Installation
-
-After downloading the project, install dependencies using:
-
-```bash
-npm install
-
 
 ## Purpose
 
@@ -41,3 +34,12 @@ The purpose of this repository is to strengthen my frontend development skills t
 ## Author
 
 Triveni Balekundri
+
+## Installation
+
+After downloading the project, you can refer react documentation to install it on your system or install dependencies using:
+
+```bash
+npm install
+
+
